@@ -1,0 +1,76 @@
+body {
+  background: #343d46; }
+
+.box {
+  margin: 100px auto;
+  width: 300px;
+  height: 50px; }
+
+.container2 {
+  position: relative;
+  top: 150px;
+  vertical-align: middle;
+  background: white;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 4px;
+  width: auto;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.searchButton {
+  float: left;
+  position: relative;
+  top: 3px;
+  left: 18px;
+  width: 20px; }
+
+.randomButton {
+  float: left;
+  position: relative;
+  top: 4px;
+  left: 8px;
+  width: 20px; }
+
+.clearButton {
+  float: left;
+  position: absolute;
+  top: 3px;
+  right: 9px; }
+
+.form-control {
+  position: relative;
+  left: 25px;
+  width: 202px !important;
+  border: none;
+  font-size: 150%; }
+
+.icon {
+  font-size: 150%;
+  cursor: pointer; }
+
+.infoCard {
+  border-style: solid;
+  border-witdh: 5px;
+  background: White;
+  padding: 10px; }
+
+.infoCard:hover {
+  background: lightgrey;
+  cursor: pointer;
+  transform: scale(1.02, 1.02); }
+
+.container {
+  position: relative;
+  top: -30px; }
+
+#contentList {
+  list-style: none; }
+
+a {
+  text-decoration: none !important;
+  color: black; }
+
+a:hover {
+  color: black; }
